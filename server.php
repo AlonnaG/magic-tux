@@ -10,7 +10,7 @@ $email    = "";
 $errors = array(); 
 
 // connect to the database
-$db = mysqli_connect("localhost", "mistsj", "0627951585", "mistsj");
+$db = mysqli_connect("www.alonnaglass.com", "Sal", "Sa!430w", "alonnagl_430w");
 
 if (mysqli_connect_errno())
   {
